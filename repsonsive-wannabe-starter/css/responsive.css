@@ -1,4 +1,24 @@
+/* @media screen and (max-width:1160px) {
+
+    html {
+        overflow-x: hidden;
+    }
+
+    header,
+    .lessons,
+    .steps,
+    .why-us {
+        display: flex;
+        justify-content: center;
+    }
+} */
+
+
 @media screen and (max-width:768px) {
+
+    /* html {
+        overflow-x: visible;
+    } */
 
     header,
     .lessons,
