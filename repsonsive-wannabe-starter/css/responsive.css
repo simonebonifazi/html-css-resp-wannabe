@@ -1,0 +1,11 @@
+@media screen and (max-width:768px) {
+
+    header,
+    .lessons,
+    .steps,
+    .why-us {
+        display: flex;
+        justify-content: center;
+    }
+
+}
